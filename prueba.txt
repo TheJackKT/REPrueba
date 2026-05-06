@@ -1,3 +1,2 @@
 integrantes: 
-prueba js4
 
