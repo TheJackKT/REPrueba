@@ -1,0 +1,50 @@
+
+body{
+
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, #ffc3b8, #e79782);
+    margin: 20px;
+    
+}
+
+header{
+
+    background: #412b28;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+header h1{
+    font-size: 2rem;
+    text-shadow: 0 3px 5px rgba(255, 255, 255, 0.5);
+}
+
+header h2{
+    text-shadow: 0 3px 5px rgba(255, 255, 255, 0.5);
+}
+
+section, footer{
+    background-color: #eba497;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(194, 125, 125);
+    
+}
+
+footer{
+
+    display: flex;
+    flex-direction: column;
+    
+}
