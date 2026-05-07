@@ -1,4 +1,2 @@
-integrantes: 
+integrantes:
 Javier Andrés Coronado Pulido
-
-
